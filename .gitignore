@@ -1,0 +1,27 @@
+# Dependency directory
+node_modules/
+
+# Environment configuration
+.env
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+
+# Log files
+*.log
+
+# Cache
+.cache/
+
+# Test artifacts
+coverage/
